@@ -1,1 +1,1 @@
-worker: java -Xmx300m -Xss512k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8 -classpath target/classes:target/dependency/* ru.forDaughter.telegram.simpleMathematical.Main
+worker: java -Dfile.encoding=UTF-8 -classpath target/classes:target/dependency/* ru.forDaughter.telegram.simpleMathematical.Main
