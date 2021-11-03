@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>telegramBotV1</artifactId>
     <version>1.01</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>TelegramBot</name>
     <description>project for mathematics</description>
 
