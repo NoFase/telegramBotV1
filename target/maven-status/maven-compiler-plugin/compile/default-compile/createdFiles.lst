@@ -1,12 +1,12 @@
 work\messages\fromUser\Answer.class
 work\nonCommand\StaticService.class
 work\nonCommand\User.class
+Main.class
 work\nonCommand\services\Subtraction.class
 work\nonCommand\services\Division.class
 work\nonCommand\services\Addition.class
 work\MyTelegramBot.class
 work\nonCommand\services\Helper.class
 work\nonCommand\services\Expression.class
-work\Main.class
 work\nonCommand\services\Multiplication.class
 work\messages\BotStatus.class
