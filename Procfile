@@ -1,1 +1,1 @@
-worker: java -Dfile.encoding=UTF-8 -classpath target/classes:target/dependency/* ru.forDaughter.telegram.simpleMathematical.Main
+worker: java  $JAVA_OPTS -Dfile.encoding=UTF-8 -classpath target/classes:target/dependency/* ru.forDaughter.telegram.simpleMathematical.Main
