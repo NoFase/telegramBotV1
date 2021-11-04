@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>telegramBotV1</artifactId>
     <version>1.01</version>
-<!--    <packaging>jar</packaging>-->
+    <packaging>jar</packaging>
     <name>TelegramBot</name>
     <description>project for mathematics</description>
 
@@ -57,7 +57,7 @@
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <manifestEntries>
-                                        <Main-Class>Main</Main-Class>
+                                        <Main-Class>ru.forDaughter.telegram.simpleMathematical.Main</Main-Class>
                                     </manifestEntries>
                                 </transformer>
                             </transformers>

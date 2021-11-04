@@ -28,7 +28,7 @@
               <transformers>
                 <transformer>
                   <manifestEntries>
-                    <Main-Class>Main</Main-Class>
+                    <Main-Class>ru.forDaughter.telegram.simpleMathematical.Main</Main-Class>
                   </manifestEntries>
                 </transformer>
               </transformers>
