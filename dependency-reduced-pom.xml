@@ -28,7 +28,7 @@
               <transformers>
                 <transformer>
                   <manifestEntries>
-                    <Main-Class>work.Main</Main-Class>
+                    <Main-Class>Main</Main-Class>
                   </manifestEntries>
                 </transformer>
               </transformers>
