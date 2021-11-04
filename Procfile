@@ -1,1 +1,1 @@
-worker: java $JAVA_OPTS -jar -Dfile.encoding=UTF-8 target/dependency/telegramBotV1-1.01.jar
+worker: java $JAVA_OPTS -jar -Dfile.encoding=UTF-8 target/telegramBotV1-1.01.jar
